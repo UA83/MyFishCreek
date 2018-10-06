@@ -1,0 +1,31 @@
+nav {
+    border: dashed black 1px;
+    text-align: center;
+    padding: 2%;
+    font-size: 50px;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: 35px;
+    font-family: Verdana;
+    color: bisque;
+}
+
+
+footer {
+    background: cornsilk;
+}
+
+li {
+    list-style-type:square
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+dt {
+    font-weight: bolder;
+}
